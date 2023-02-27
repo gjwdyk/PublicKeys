@@ -62,6 +62,9 @@ List of Public Key file and their respective URI.
 | --- | --- |
 | [https://download.docker.com/linux/ubuntu/gpg](https://download.docker.com/linux/ubuntu/gpg) | [DownloadDockerCom_LinuxUbuntu_gpg](DownloadDockerCom_LinuxUbuntu_gpg) |
 | [https://packages.cloud.google.com/apt/doc/apt-key.gpg](https://packages.cloud.google.com/apt/doc/apt-key.gpg) | [PackagesCloudGoogleCom_AptDoc_AptKey.gpg](PackagesCloudGoogleCom_AptDoc_AptKey.gpg) |
+| [https://cs.nginx.com/static/keys/nginx_signing.key](https://cs.nginx.com/static/keys/nginx_signing.key) | [CsNginxCom_StaticKeys_NginxSigning.key](CsNginxCom_StaticKeys_NginxSigning.key) |
+| [https://cs.nginx.com/static/keys/app-protect-security-updates.key](https://cs.nginx.com/static/keys/app-protect-security-updates.key) | [CsNginxCom_StaticKeys_AppProtectSecurityUpdates.key](CsNginxCom_StaticKeys_AppProtectSecurityUpdates.key) |
+| []() | []() |
 
 
 
