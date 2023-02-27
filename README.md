@@ -66,6 +66,9 @@ List of Public Key file and their respective URI.
 | [https://cs.nginx.com/static/keys/app-protect-security-updates.key](https://cs.nginx.com/static/keys/app-protect-security-updates.key) | [CsNginxCom_StaticKeys_AppProtectSecurityUpdates.key](CsNginxCom_StaticKeys_AppProtectSecurityUpdates.key) |
 | [https://cs.nginx.com/static/files/90pkgs-nginx](https://cs.nginx.com/static/files/90pkgs-nginx) | [CsNginxCom_StaticFiles_90PkgsNginx](CsNginxCom_StaticFiles_90PkgsNginx) |
 | [https://artifacts.elastic.co/GPG-KEY-elasticsearch](https://artifacts.elastic.co/GPG-KEY-elasticsearch) | [ArtifactsElasticCo_GpgKeyElasticsearch](ArtifactsElasticCo_GpgKeyElasticsearch) |
+| [https://apt.grafana.com/gpg.key](https://apt.grafana.com/gpg.key) | [AptGrafanaCom_GpgKey](AptGrafanaCom_GpgKey) |
+| [https://nginx.org/keys/nginx_signing.key](https://nginx.org/keys/nginx_signing.key) | [NginxOrg_Keys_NginxSigning.key](NginxOrg_Keys_NginxSigning.key) |
+| []() | []() |
 | []() | []() |
 | []() | []() |
 
