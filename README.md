@@ -29,8 +29,32 @@ But updating during the original key's repository is unavailable, would be point
 
 You can, if you're lucky, go to [Wayback Machine](https://web.archive.org/).
 
+![Wayback Machine Entry](WaybackMachineEntry.png)
+
+Enter the URI of the file you'd like to have. In this example case `https://download.docker.com/linux/ubuntu/gpg` .
+
+![Wayback Machine Date](WaybackMachineDate.png)
+
+Then choose the date of the copy of the file you'd like to have. In most cases, you'd like to have the latest one. Just click on the latest data stated
+
+![Wayback Machine Save](WaybackMachineSave.png)
 
 
 
+
+
+<br><br><br>
+
+***
+
+<br><br><br>
+```
+╔═╦═════════════════╦═╗
+╠═╬═════════════════╬═╣
+║ ║ End of Document ║ ║
+╠═╬═════════════════╬═╣
+╚═╩═════════════════╩═╝
+```
+<br><br><br>
 
 
