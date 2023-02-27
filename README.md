@@ -35,11 +35,20 @@ Enter the URI of the file you'd like to have. In this example case `https://down
 
 ![Wayback Machine Date](WaybackMachineDate.png)
 
-Then choose the date of the copy of the file you'd like to have. In most cases, you'd like to have the latest one. Just click on the latest data stated
+Then choose the date of the copy of the file you'd like to have.
+In most cases, you'd like to have the latest one.
+Just click on the ending date stated on top of the chart (from the screen capture `February 24, 2023`).
+
+![Wayback Machine Time](WaybackMachineTime.png)
+
+Alternatively you can click on the calendar date; option of the time of the copy of the file was/were made appears, and you can click one of the time version you'd like.
 
 ![Wayback Machine Save](WaybackMachineSave.png)
 
+The copy of the file of your interest will be saved to your local drive.
+Rename the saved file properly and upload/update the repository for your script execution.
 
+Obviously, the method described here only works in case only the Public Key file has issue, and not when the installer file(s) have issue.
 
 
 
