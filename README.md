@@ -41,7 +41,7 @@ Just click on the ending date stated on top of the chart (from the screen captur
 
 ![Wayback Machine Time](WaybackMachineTime.png)
 
-Alternatively you can click on the calendar date; option of the time of the copy of the file was/were made appears, and you can click one of the time version you'd like.
+Alternatively you can click on the calendar date; option of the time of the copy of the file was made appears, and you can click one of the time version you'd like.
 
 ![Wayback Machine Save](WaybackMachineSave.png)
 
