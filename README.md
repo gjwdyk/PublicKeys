@@ -64,6 +64,9 @@ List of Public Key file and their respective URI.
 | [https://packages.cloud.google.com/apt/doc/apt-key.gpg](https://packages.cloud.google.com/apt/doc/apt-key.gpg) | [PackagesCloudGoogleCom_AptDoc_AptKey.gpg](PackagesCloudGoogleCom_AptDoc_AptKey.gpg) |
 | [https://cs.nginx.com/static/keys/nginx_signing.key](https://cs.nginx.com/static/keys/nginx_signing.key) | [CsNginxCom_StaticKeys_NginxSigning.key](CsNginxCom_StaticKeys_NginxSigning.key) |
 | [https://cs.nginx.com/static/keys/app-protect-security-updates.key](https://cs.nginx.com/static/keys/app-protect-security-updates.key) | [CsNginxCom_StaticKeys_AppProtectSecurityUpdates.key](CsNginxCom_StaticKeys_AppProtectSecurityUpdates.key) |
+| [https://cs.nginx.com/static/files/90pkgs-nginx](https://cs.nginx.com/static/files/90pkgs-nginx) | [CsNginxCom_StaticFiles_90PkgsNginx](CsNginxCom_StaticFiles_90PkgsNginx) |
+| []() | []() |
+| []() | []() |
 | []() | []() |
 
 
