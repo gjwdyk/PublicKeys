@@ -50,6 +50,17 @@ Rename the saved file properly and upload/update the repository for your script 
 
 Obviously, the method described here only works in case only the Public Key file has issue, and not when the installer file(s) have issue.
 
+<br><br><br>
+
+***
+
+<br><br><br>
+
+| URI | File |
+| --- | --- |
+| [https://download.docker.com/linux/ubuntu/gpg](https://download.docker.com/linux/ubuntu/gpg) | [DownloadDockerCom_LinuxUbuntu_gpg](DownloadDockerCom_LinuxUbuntu_gpg) |
+| [https://packages.cloud.google.com/apt/doc/apt-key.gpg](https://packages.cloud.google.com/apt/doc/apt-key.gpg) | [PackagesCloudGoogleCom_AptDoc_AptKey.gpg](PackagesCloudGoogleCom_AptDoc_AptKey.gpg) |
+
 
 
 <br><br><br>
