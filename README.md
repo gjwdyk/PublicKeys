@@ -19,7 +19,7 @@ let counter=0;while ( (sudo lsof /var/cache/apt/archives/lock) || (sudo lsof /va
 if ( sudo curl -fksSL https://download.docker.com/linux/ubuntu/gpg ) ; then
  sudo curl -fksSL --retry 333 https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 else
- sudo curl -fksSL --retry 333 https://raw.githubusercontent.com/gjwdyk/PublicKeys/DownloadDockerCom_LinuxUbuntu_gpg | sudo apt-key add -
+ sudo curl -fksSL --retry 333 https://raw.githubusercontent.com/gjwdyk/PublicKeys/main/DownloadDockerCom_LinuxUbuntu_gpg | sudo apt-key add -
 fi
 ```
 
