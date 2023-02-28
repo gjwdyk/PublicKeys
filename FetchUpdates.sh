@@ -3,6 +3,9 @@
 sudo echo "Executing $0 $1 $2 $3 $4 $5 $6 $7 $8 $9"
 cd $HOME
 
+sudo mkdir $HOME/PublicKeys
+cd $HOME
+
 declare -a file_url
 declare -a file_name
 declare -a file_acl
@@ -15,42 +18,42 @@ file_acl[0]="644"
 file_own[0]="ubuntu:ubuntu"
 
 file_url[1]="https://apt.grafana.com/gpg.key"
-file_name[1]="$HOME/AptGrafanaCom_GpgKey"
+file_name[1]="$HOME/PublicKeys/AptGrafanaCom_GpgKey"
 file_acl[1]="644"
 file_own[1]="ubuntu:ubuntu"
 
 file_url[2]="https://artifacts.elastic.co/GPG-KEY-elasticsearch"
-file_name[2]="$HOME/ArtifactsElasticCo_GpgKeyElasticsearch"
+file_name[2]="$HOME/PublicKeys/ArtifactsElasticCo_GpgKeyElasticsearch"
 file_acl[2]="644"
 file_own[2]="ubuntu:ubuntu"
 
 file_url[3]="https://cs.nginx.com/static/files/90pkgs-nginx"
-file_name[3]="$HOME/CsNginxCom_StaticFiles_90PkgsNginx"
+file_name[3]="$HOME/PublicKeys/CsNginxCom_StaticFiles_90PkgsNginx"
 file_acl[3]="644"
 file_own[3]="ubuntu:ubuntu"
 
 file_url[4]="https://cs.nginx.com/static/keys/app-protect-security-updates.key"
-file_name[4]="$HOME/CsNginxCom_StaticKeys_AppProtectSecurityUpdates.key"
+file_name[4]="$HOME/PublicKeys/CsNginxCom_StaticKeys_AppProtectSecurityUpdates.key"
 file_acl[4]="644"
 file_own[4]="ubuntu:ubuntu"
 
 file_url[5]="https://cs.nginx.com/static/keys/nginx_signing.key"
-file_name[5]="$HOME/CsNginxCom_StaticKeys_NginxSigning.key"
+file_name[5]="$HOME/PublicKeys/CsNginxCom_StaticKeys_NginxSigning.key"
 file_acl[5]="644"
 file_own[5]="ubuntu:ubuntu"
 
 file_url[6]="https://download.docker.com/linux/ubuntu/gpg"
-file_name[6]="$HOME/DownloadDockerCom_LinuxUbuntu_gpg"
+file_name[6]="$HOME/PublicKeys/DownloadDockerCom_LinuxUbuntu_gpg"
 file_acl[6]="644"
 file_own[6]="ubuntu:ubuntu"
 
 file_url[7]="https://nginx.org/keys/nginx_signing.key"
-file_name[7]="$HOME/NginxOrg_Keys_NginxSigning.key"
+file_name[7]="$HOME/PublicKeys/NginxOrg_Keys_NginxSigning.key"
 file_acl[7]="644"
 file_own[7]="ubuntu:ubuntu"
 
 file_url[8]="https://packages.cloud.google.com/apt/doc/apt-key.gpg"
-file_name[8]="$HOME/PackagesCloudGoogleCom_AptDoc_AptKey.gpg"
+file_name[8]="$HOME/PublicKeys/PackagesCloudGoogleCom_AptDoc_AptKey.gpg"
 file_acl[8]="644"
 file_own[8]="ubuntu:ubuntu"
 
