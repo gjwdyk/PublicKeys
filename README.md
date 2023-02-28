@@ -79,6 +79,18 @@ List of Public Key file and their respective URI.
 ***
 
 <br><br><br>
+
+Execute the following command snippet to try fetching all registered Public Key files:
+
+`cd $HOME;sudo curl -fksSLO --retry 333 https://raw.githubusercontent.com/gjwdyk/PublicKeys/main/FetchUpdates.sh;sudo chmod 777 $HOME/FetchUpdates.sh;sudo chown $(id -u):$(id -g) $HOME/FetchUpdates.sh;/bin/bash $HOME/FetchUpdates.sh`
+
+
+
+<br><br><br>
+
+***
+
+<br><br><br>
 ```
 ╔═╦═════════════════╦═╗
 ╠═╬═════════════════╬═╣
